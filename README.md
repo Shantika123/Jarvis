@@ -43,20 +43,20 @@ jarvisai/
 
 ## Installation
 
-### 1️⃣ Clone the repository
+### 1️)Clone the repository
 
 ```bash
 git clone https://github.com/your-username/jarvis-ai.git
 cd jarvis-ai
 ```
 
-### 2️⃣ Install dependencies
+### 2️) Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Manual Installation (If requirements.txt is not available)
+### 3️) Manual Installation (If requirements.txt is not available)
 If `requirements.txt` is not available, install manually:
 
 ```bash
